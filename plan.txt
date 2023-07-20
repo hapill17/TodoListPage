@@ -1,0 +1,3 @@
+ MongoDB 접속 오류 : querySrv ENODATA
+ -몽고 db사이트 -CONNECT-3.6 or later 해서 업뎃 버젼 맞춘 후
+ url복사함
